@@ -1,0 +1,10 @@
+test
+
+node_modules
+.git
+.gitignore
+Dockerfile
+npm-debug.log
+yaml
+tmp
+*.yaml
